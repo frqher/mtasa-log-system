@@ -1,0 +1,9 @@
+<meta>
+  <info author="Casti" version="1.0.0" type="script" name="Log" />
+  
+  <script src="server.lua" type="server" />
+  <script src="client.lua" type="client" cache="false" />
+  
+  <export function="log" type="server" />
+  <export function="log" type="client" />
+</meta>

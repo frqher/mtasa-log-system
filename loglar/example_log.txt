@@ -1,0 +1,6 @@
+[2021-12-11 16:43] Casti adlı oyuncu hesabına toplamda 5555$ para yatırdı Güncel bakiye: 5,555$
+[2021-12-18 18:55] Casti adlı oyuncu hesabına toplamda 5000$ para yatırdı Güncel bakiye: 5,000$
+[2021-12-18 18:56] Şüpheli Casti adlı oyuncu hesabına toplamda 5,000$ para yatırdı Güncel bakiye: 10,000$
+[2021-12-18 18:56] Casti adlı oyuncu 5,000$ başarıyla dearswat adlı kullanıcının banka hesabına transfer etti. Güncel bakiye: 5,000$
+[2021-12-18 18:56] Şüpheli Casti adlı oyuncu 5,000$ başarıyla dearswat adlı kullanıcının banka hesabına transfer etti. Güncel bakiye: 5,000$
+[2021-12-18 18:56] Casti adlı oyuncu hesabından toplamda 5,000$ para çekti Güncel bakiye: 0$
