@@ -19,3 +19,5 @@ function log(script, logs)
 	fileSetPos ( dosya, eofdosya )
 	fileClose ( dosya )
 end
+addEvent("add:log", true)
+addEventHandler("add:log", root, log)
